@@ -1,6 +1,16 @@
 # Billz-Pill-Remider-App
  Billz lets users schedule a time to when they'll take thier next pill. 
  
+ 
+ 
+**TECH USED**
+
+- SWIFT | 
+- SWIFTUI | 
+- USERDEFAULTS | 
+- COREDATA 
+- LOCAL NOTIFICATIONS |
+
 ** Features:**
  - ADD AND SCHEDULE A PILL
  - ADD AN ICON AND AN ICON COLOR
@@ -8,7 +18,7 @@
  - PIN PILLS TO TOP  
  
  <a href="url"><img src="https://user-images.githubusercontent.com/79456369/160769690-77b219f7-a9ba-4070-9ab3-0dd54443a8d9.png" align="left" height="650" width="300" ></a>
- 
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <a href="url"><img src="https://user-images.githubusercontent.com/79456369/160769715-c0558376-be6b-4827-be6b-f7083e27fb10.png" align="left" height="650" width="300" ></a>
 
 <a href="url"><img src="https://user-images.githubusercontent.com/79456369/160769742-ccc4caf3-bb50-473a-a091-d9d0738da1d3.png" align="left" height="650" width="300" ></a>
@@ -21,13 +31,5 @@
 
 
 
-<a>
- 
-**TECH USED**
 
-- SWIFT | 
-- SWIFTUI | 
-- USERDEFAULTS | 
-- COREDATA 
-- LOCAL NOTIFICATIONS |
- <a/>
+ 
