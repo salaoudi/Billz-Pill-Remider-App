@@ -20,6 +20,9 @@
 <a href="url"><img src="https://user-images.githubusercontent.com/79456369/160769785-c4a71c63-74cf-4259-bfeb-9ee8ca9af1af.png" align="left" height="650" width="300" ></a>
 
 
+
+<a>
+ 
 **TECH USED**
 
 - SWIFT | 
@@ -27,5 +30,4 @@
 - USERDEFAULTS | 
 - COREDATA 
 - LOCAL NOTIFICATIONS |
-
-
+ <a/>
