@@ -1,5 +1,5 @@
 # Billz-Pill-Remider-App
- Bill lets users schedule a time to when they'll take thier next pill. 
+ Billz lets users schedule a time to when they'll take thier next pill. 
  
 ** Features:**
  - ADD AND SCHEDULE A PILL
