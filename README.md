@@ -7,9 +7,9 @@
  - UPDATE PILLS
  - PIN PILLS TO TOP  
  
- <a href="url"><img src="https://user-images.githubusercontent.com/79456369/160769690-77b219f7-a9ba-4070-9ab3-0dd54443a8d9.png" align="left" height="600" width="300" ></a>
+ <a href="url"><img src="https://user-images.githubusercontent.com/79456369/160769690-77b219f7-a9ba-4070-9ab3-0dd54443a8d9.png" align="left" height="650" width="300" ></a>
  
-<a href="url"><img src="https://user-images.githubusercontent.com/79456369/160769715-c0558376-be6b-4827-be6b-f7083e27fb10.png" align="left" height="600" width="300" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/79456369/160769715-c0558376-be6b-4827-be6b-f7083e27fb10.png" align="left" height="650" width="300" ></a>
 
 
 
