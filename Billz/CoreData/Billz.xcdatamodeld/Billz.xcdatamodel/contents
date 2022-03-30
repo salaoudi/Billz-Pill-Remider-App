@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="20D64" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="PillData" representedClassName="PillData" syncable="YES" codeGenerationType="class">
+        <attribute name="iconColor" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="isPinned" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="morningBillDosage" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="morningBillIcon" optional="YES" attributeType="String"/>
+        <attribute name="morningBillName" optional="YES" attributeType="String"/>
+        <attribute name="morningBillTime" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+    </entity>
+    <elements>
+        <element name="PillData" positionX="-63" positionY="-18" width="128" height="134"/>
+    </elements>
+</model>
