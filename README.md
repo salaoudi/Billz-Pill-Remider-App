@@ -7,6 +7,8 @@
  - UPDATE PILLS
  - PIN PILLS TO TOP  
  
+  <img src = (https://user-images.githubusercontent.com/..." data-canonical-src="79456369/160769690-77b219f7-a9ba-4070-9ab3-0dd54443a8d9.png" width="200" height="700" />
+  
  <img src = (https://user-images.githubusercontent.com/79456369/160769690-77b219f7-a9ba-4070-9ab3-0dd54443a8d9.png) width = 400 height =750>
 
 ![02](https://user-images.githubusercontent.com/79456369/160769715-c0558376-be6b-4827-be6b-f7083e27fb10.png)
